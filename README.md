@@ -1,0 +1,2 @@
+# StockX
+discord bot
